@@ -37,7 +37,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/node": "16.4.7",
-    "carna": "4.10.2",
+    "carna": "4.10.9",
     "typescript": "4.3.5"
   }
 }
